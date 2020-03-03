@@ -1,5 +1,5 @@
 #Required packages
-*juputer
+*jupyter
 *pandas
 *plotly
 *scipy (numpy is included)
